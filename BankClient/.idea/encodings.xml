@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/client/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/evenement/Evenement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/evenement/EvenementUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/evenement/GestionnaireEvenement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/net/Connexion.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/thread/Lecteur.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/atoudeft/commun/thread/ThreadEcouteurDeTexte.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
